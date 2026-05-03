@@ -101,9 +101,16 @@ Moved Register button + Player FAQs text link from Announcement section into the
 
 ---
 
+### Issues #8, #9, #11 — COMPLETED 2026-05-03
+
+- **#8** Welcome card rewritten: "We play Spring and Fall seasons at Krieg Fields — Open and Women's divisions, all skill levels. Come for the softball, stay for the community."
+- **#9** Stats updated to: 20+ Years | 400+ Members | 25+ Teams. Fixed "over 450" → "over 400" in informational block.
+- **#11** Number icons scaled 160px → 70px. Copy rewritten: Find Your Team, More Than a League, All Are Welcome.
+
+---
+
 ## Recommended Next Steps
 
 1. **Redesign announcement section** — see [backlog-latest-news-redesign.md](backlog-latest-news-redesign.md) (#13, supersedes #10)
-2. **Rewrite welcome card copy** — replace template language with league specifics (#8)
-3. **Scale down 1-2-3 numbers** + add CTA to Join section (#11, #12)
-4. **Gallery alt text pass** — batch update in media library (#16)
+2. **Add CTA to Join a Community section** (#12)
+3. **Gallery alt text pass** — batch update in media library (#16)
