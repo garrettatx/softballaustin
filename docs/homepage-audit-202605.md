@@ -80,22 +80,25 @@ Lower urgency but would meaningfully improve the page.
 
 ---
 
-## Quick Wins (one session)
+## Quick Wins — COMPLETED 2026-05-03
 
-1. Fix "ALlies" typo
-2. Delete starter template artifact link
-3. Delete orphan empty paragraph
-4. Write meta description + set focus keyword in RankMath
-5. Fix H1 tablet font size (80 → 56)
-6. Set OG image + title
+All P0 items fixed via MCP and verified. GitHub issues #1-6 closed.
+
+| # | Issue | Fix Applied |
+|---|-------|-------------|
+| #1 | "ALlies" typo | Changed to "Allies" |
+| #2 | Starter template artifact | Removed empty `<a>` tag |
+| #3 | Orphan empty paragraph | Deleted from page bottom |
+| #4 | Meta description + keyword | Set RankMath description (165 chars) + focus keyword "LGBTQ softball league Austin" |
+| #5 | OG image + title | Set to 20th anniversary branded graphic (ID 274) + custom title |
+| #6 | H1 tablet font size | Changed from `[70,80,40]` to `[70,56,40]` |
 
 ---
 
 ## Recommended Next Steps
 
-1. **Quick wins** above (P0 items, ~15 min)
-2. **Add hero CTA** — biggest conversion improvement (#7)
-3. **Refresh announcement section** — update news or switch to dynamic block (#11)
-4. **Rewrite welcome card copy** — replace template language with league specifics (#8)
-5. **Scale down 1-2-3 numbers** + add CTA to Join section (#12, #13)
-6. **Gallery alt text pass** — batch update in media library (#16)
+1. **Add hero CTA** — biggest conversion improvement (#7)
+2. **Refresh announcement section** — update news or switch to dynamic block (#10)
+3. **Rewrite welcome card copy** — replace template language with league specifics (#8)
+4. **Scale down 1-2-3 numbers** + add CTA to Join section (#11, #12)
+5. **Gallery alt text pass** — batch update in media library (#16)
