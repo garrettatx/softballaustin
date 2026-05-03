@@ -95,10 +95,15 @@ All P0 items fixed via MCP and verified. GitHub issues #1-6 closed.
 
 ---
 
+### Issue #7 — COMPLETED 2026-05-03
+
+Moved Register button + Player FAQs text link from Announcement section into the hero (Welcome + Photo, column 1). Button text changed from "Registration" to "Register." Nav menu "League Registration" left as-is. Hoedown section untouched.
+
+---
+
 ## Recommended Next Steps
 
-1. **Add hero CTA** — biggest conversion improvement (#7)
-2. **Refresh announcement section** — update news or switch to dynamic block (#10)
-3. **Rewrite welcome card copy** — replace template language with league specifics (#8)
-4. **Scale down 1-2-3 numbers** + add CTA to Join section (#11, #12)
-5. **Gallery alt text pass** — batch update in media library (#16)
+1. **Refresh announcement section** — update news or switch to dynamic block (#10)
+2. **Rewrite welcome card copy** — replace template language with league specifics (#8)
+3. **Scale down 1-2-3 numbers** + add CTA to Join section (#11, #12)
+4. **Gallery alt text pass** — batch update in media library (#16)
