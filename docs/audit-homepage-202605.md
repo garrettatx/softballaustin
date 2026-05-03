@@ -103,7 +103,7 @@ Moved Register button + Player FAQs text link from Announcement section into the
 
 ## Recommended Next Steps
 
-1. **Refresh announcement section** — update news or switch to dynamic block (#10)
+1. **Redesign announcement section** — see [backlog-latest-news-redesign.md](backlog-latest-news-redesign.md) (#13, supersedes #10)
 2. **Rewrite welcome card copy** — replace template language with league specifics (#8)
 3. **Scale down 1-2-3 numbers** + add CTA to Join section (#11, #12)
 4. **Gallery alt text pass** — batch update in media library (#16)
