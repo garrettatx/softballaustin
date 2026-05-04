@@ -80,37 +80,19 @@ Lower urgency but would meaningfully improve the page.
 
 ---
 
-## Quick Wins — COMPLETED 2026-05-03
+## Completed
 
-All P0 items fixed via MCP and verified. GitHub issues #1-6 closed.
+### Issue #7 — Hero CTA (2026-05-04)
 
-| # | Issue | Fix Applied |
-|---|-------|-------------|
-| #1 | "ALlies" typo | Changed to "Allies" |
-| #2 | Starter template artifact | Removed empty `<a>` tag |
-| #3 | Orphan empty paragraph | Deleted from page bottom |
-| #4 | Meta description + keyword | Set RankMath description (165 chars) + focus keyword "LGBTQ softball league Austin" |
-| #5 | OG image + title | Set to 20th anniversary branded graphic (ID 274) + custom title |
-| #6 | H1 tablet font size | Changed from `[70,80,40]` to `[70,56,40]` |
+Moved Registration button + Player FAQs text link from Announcement section into the hero (Welcome + Photo, column 1). Used a Kadence Section block with `direction: horizontal` for inline layout. Button text kept as "Registration." Verified at desktop/tablet/mobile breakpoints.
 
----
-
-### Issue #7 — COMPLETED 2026-05-03
-
-Moved Register button + Player FAQs text link from Announcement section into the hero (Welcome + Photo, column 1). Button text changed from "Registration" to "Register." Nav menu "League Registration" left as-is. Hoedown section untouched.
-
----
-
-### Issues #8, #9, #11 — COMPLETED 2026-05-03
-
-- **#8** Welcome card rewritten: "We play Spring and Fall seasons at Krieg Fields — Open and Women's divisions, all skill levels. Come for the softball, stay for the community."
-- **#9** Stats updated to: 20+ Years | 400+ Members | 25+ Teams. Fixed "over 450" → "over 400" in informational block.
-- **#11** Number icons scaled 160px → 70px. Copy rewritten: Find Your Team, More Than a League, All Are Welcome.
+**Note:** P0 quick wins (#1-6) and content changes (#8, #9, #11) were attempted on 2026-05-03 but rolled back via backup. These issues remain open for future work.
 
 ---
 
 ## Recommended Next Steps
 
-1. **Redesign announcement section** — see [backlog-latest-news-redesign.md](backlog-latest-news-redesign.md) (#13, supersedes #10)
-2. **Add CTA to Join a Community section** (#12)
-3. **Gallery alt text pass** — batch update in media library (#16)
+1. **P0 quick wins** — re-apply #1-6 (typo, artifact, orphan block, meta desc, OG image, H1 size)
+2. **Content polish** — #8 (welcome card), #9 (stats), #11 (1-2-3 highlights copy)
+3. **Redesign announcement section** — see [backlog-latest-news-redesign.md](backlog-latest-news-redesign.md) (#13, supersedes #10)
+4. **Gallery alt text pass** — batch update in media library (#16)
